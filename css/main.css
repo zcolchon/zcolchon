@@ -1,0 +1,22 @@
+body {
+  background: #285c9a;
+}
+div p {
+  display: block;
+  padding: 20px 0;
+}
+div p span {
+  display: block;
+  text-align: center;
+  text-shadow: 2px 2px 5px #808080;
+  margin: 20px 0px;
+}
+div p span.tit {
+  font-size: 9em;
+}
+div p span.descr {
+  font-size: 3em;
+}
+div p span.otro {
+  font-size: 1.5em;
+}
