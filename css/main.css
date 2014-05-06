@@ -13,9 +13,18 @@ div p span {
 }
 div p span.tit {
   font-size: 9em;
+  text-shadow: 
+    0 0 20px #fefcc9,
+    10px -10px 30px #feec85,
+    -20px -20px 40px #ffae34,
+    20px -40px 50px #ec760c,
+    -20px -60px 60px #cd4606,
+    0 -80px 70px #973716,
+    10px -90px 80px #451b0e;
 }
 div p span.descr {
   font-size: 3em;
+  text-shadow : 0  -1px  #999999 , 1px  0  #999999 , 0  1px  #999999 , -1px  0  #999999 ;
 }
 div p span.otro {
   font-size: 1.5em;
